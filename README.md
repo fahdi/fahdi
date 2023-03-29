@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Tiny Projects 
 - 📫 How to reach me. Just email me at info@fahdmurtaza.com
+- 🚧 Building WordPress hooks Explorer at https://www.fahdmurtaza.com/wp-hooks-explorer/
 
 <!---
 fahdi/fahdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
