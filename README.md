@@ -1,4 +1,4 @@
-👋 Hi there, I'm @fahdi!
+👋 Hi there, I'm @fahdi aka iSuperCoder!
 
 👀 I'm interested in learning new technologies and expanding my skillset.
 
