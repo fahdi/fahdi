@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @fahdi
-- 👀 I’m interested in leaerning new techniologies. 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Tiny Projects 
-- 📫 How to reach me. Just email me at info@fahdmurtaza.com
-- 🚧 Building WordPress hooks Explorer at https://www.fahdmurtaza.com/wp-hooks-explorer/
+👋 Hi there, I'm @fahdi!
 
-<!---
-fahdi/fahdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm interested in learning new technologies and expanding my skillset.
+
+🌱 Currently, I'm focusing on learning React.
+
+💞️ I'm looking to collaborate on tiny projects that can help me grow and learn from others.
+
+📫 Feel free to reach out to me via email at info@fahdmurtaza.com.
+
+🚧 I'm currently working on building a WordPress hooks explorer, which you can check out at https://www.fahdmurtaza.com/wp-hooks-explorer/.
