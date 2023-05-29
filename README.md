@@ -9,3 +9,6 @@
 📫 Feel free to reach out to me via email at info@fahdmurtaza.com.
 
 🚧 I'm currently working on building a WordPress hooks explorer, which you can check out at https://www.fahdmurtaza.com/wp-hooks-explorer/.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fahdi)](https://www.fahdmurtaza.com)
+
