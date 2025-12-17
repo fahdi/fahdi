@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Fahad Murtaza (@fahdi)
 
-**Founding Principal Engineer at iSuperCoder** | Web & WordPress Expert | Algorithm Specialist
+**Founding Engineer at iSuperCoder** | Web & WordPress Expert | Algorithm Specialist
 
 ## 🚀 About Me
 
