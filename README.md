@@ -40,7 +40,18 @@
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/fahdi/fahad-ai-shopping-assistant-for-woocommerce">AI Shopping Assistant</a></h3>
+      <h3><a href="https://github.com/fahdi/css-visual-learner">CSS Visual Learner</a></h3>
+      <p>Interactive tool for learning CSS concepts visually — live demos, property explorer, and instant feedback for every CSS rule.</p>
+      <p>
+        <img alt="Stars" src="https://img.shields.io/github/stars/fahdi/css-visual-learner?style=flat-square&color=yellow" />
+        <img alt="Forks" src="https://img.shields.io/github/forks/fahdi/css-visual-learner?style=flat-square&color=blue" />
+        <img alt="Language" src="https://img.shields.io/github/languages/top/fahdi/css-visual-learner?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/fahdi/fahad-ai-shopping-assistant-for-woocommerce">Fahad AI — WooCommerce Assistant</a></h3>
       <p>AI-powered WooCommerce shopping assistant with Claude & Kimi K2 support, cart management, and streaming responses.</p>
       <p>
         <img alt="Stars" src="https://img.shields.io/github/stars/fahdi/fahad-ai-shopping-assistant-for-woocommerce?style=flat-square&color=yellow" />
@@ -48,25 +59,24 @@
         <img alt="Language" src="https://img.shields.io/github/languages/top/fahdi/fahad-ai-shopping-assistant-for-woocommerce?style=flat-square" />
       </p>
     </td>
+    <td width="50%">
+      <h3><a href="https://github.com/fahdi/datecoder">Date Format Builder</a></h3>
+      <p>Generate date format strings for JavaScript, PHP, and Python side by side — no more hunting through docs.</p>
+      <p>
+        <img alt="Stars" src="https://img.shields.io/github/stars/fahdi/datecoder?style=flat-square&color=yellow" />
+        <img alt="Forks" src="https://img.shields.io/github/forks/fahdi/datecoder?style=flat-square&color=blue" />
+        <img alt="Language" src="https://img.shields.io/github/languages/top/fahdi/datecoder?style=flat-square" />
+      </p>
+    </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/fahdi/walletpro-for-woocommerce">WalletPro for WooCommerce</a></h3>
+      <h3><a href="https://walletpro.isupercoder.com/">WalletPro for WooCommerce</a></h3>
       <p>Full-featured WooCommerce wallet system — store credit, cashback, top-ups, transfers, gift cards, referrals, BNPL, and more.</p>
-      <p>
-        <img alt="Stars" src="https://img.shields.io/github/stars/fahdi/walletpro-for-woocommerce?style=flat-square&color=yellow" />
-        <img alt="Forks" src="https://img.shields.io/github/forks/fahdi/walletpro-for-woocommerce?style=flat-square&color=blue" />
-        <img alt="Language" src="https://img.shields.io/github/languages/top/fahdi/walletpro-for-woocommerce?style=flat-square" />
-      </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/fahdi/wordpress-rag-chatbot">WordPress RAG Chatbot</a></h3>
+      <h3>WordPress RAG Chatbot</h3>
       <p>RAG-powered WordPress Hook Assistant — TDD-built SaaS for WordPress developers using semantic search over hook documentation.</p>
-      <p>
-        <img alt="Stars" src="https://img.shields.io/github/stars/fahdi/wordpress-rag-chatbot?style=flat-square&color=yellow" />
-        <img alt="Forks" src="https://img.shields.io/github/forks/fahdi/wordpress-rag-chatbot?style=flat-square&color=blue" />
-        <img alt="Language" src="https://img.shields.io/github/languages/top/fahdi/wordpress-rag-chatbot?style=flat-square" />
-      </p>
     </td>
   </tr>
 </table>
@@ -80,6 +90,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
