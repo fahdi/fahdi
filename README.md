@@ -1,133 +1,101 @@
-<a href="https://fahdmurtaza.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&vCenter=true&random=false&width=700&lines=Hey+%F0%9F%91%8B+I'm+Fahad+Murtaza;WordPress+%26+WooCommerce+Expert;Building+the+TableCrafter+Ecosystem;Toptal+Certified+Engineer" alt="Typing SVG" />
-</a>
+# 👋 Hi, I'm Fahad Murtaza
 
-**Senior Full-Stack/AI Engineer** and **WordPress Specialist**. Founding Principal Engineer at [iSuperCoder](https://isupercoder.com) and creator of the [TableCrafter](https://tablecrafter.com) plugin ecosystem. Toptal Certified Software Engineer with deep experience building commercial WordPress and WooCommerce plugins.
+**Founding Principal Engineer at [iSuperCoder](https://isupercoder.com)**
 
----
+Full-stack developer with deep roots in WordPress and a growing edge in AI/LLM integrations and Rust microservices. I build things that ship to real users — commercial plugins, SaaS platforms, mobile apps, and developer tools.
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/TableCrafter/tablecrafter.js">TableCrafter.js</a></h3>
-      <p>Advanced data table library with complete WordPress plugin parity. Zero dependencies, mobile-first, API-ready.</p>
-      <p>
-        <img alt="Stars" src="https://img.shields.io/github/stars/TableCrafter/tablecrafter.js?style=flat-square&color=yellow" />
-        <img alt="Forks" src="https://img.shields.io/github/forks/TableCrafter/tablecrafter.js?style=flat-square&color=blue" />
-        <img alt="Language" src="https://img.shields.io/github/languages/top/TableCrafter/tablecrafter.js?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/TableCrafter/wp-data-tables">TableCrafter WP</a></h3>
-      <p>Dynamic, SEO-friendly WordPress data tables from any JSON API or file. Native Gutenberg block, SSR, live search, and pagination.</p>
-      <p>
-        <img alt="Stars" src="https://img.shields.io/github/stars/TableCrafter/wp-data-tables?style=flat-square&color=yellow" />
-        <img alt="Forks" src="https://img.shields.io/github/forks/TableCrafter/wp-data-tables?style=flat-square&color=blue" />
-        <img alt="Language" src="https://img.shields.io/github/languages/top/TableCrafter/wp-data-tables?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/TableCrafter/cardcrafter-data-grids">CardCrafter</a></h3>
-      <p>Transform JSON data into beautiful, responsive card grids for WordPress. Native Gutenberg block with visual configuration. Available on WordPress.org.</p>
-      <p>
-        <img alt="Stars" src="https://img.shields.io/github/stars/TableCrafter/cardcrafter-data-grids?style=flat-square&color=yellow" />
-        <img alt="Forks" src="https://img.shields.io/github/forks/TableCrafter/cardcrafter-data-grids?style=flat-square&color=blue" />
-        <img alt="Language" src="https://img.shields.io/github/languages/top/TableCrafter/cardcrafter-data-grids?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/fahdi/css-visual-learner">CSS Visual Learner</a></h3>
-      <p>Interactive tool for learning CSS concepts visually — live demos, property explorer, and instant feedback for every CSS rule.</p>
-      <p>
-        <img alt="Stars" src="https://img.shields.io/github/stars/fahdi/css-visual-learner?style=flat-square&color=yellow" />
-        <img alt="Forks" src="https://img.shields.io/github/forks/fahdi/css-visual-learner?style=flat-square&color=blue" />
-        <img alt="Language" src="https://img.shields.io/github/languages/top/fahdi/css-visual-learner?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/fahdi/fahad-ai-shopping-assistant-for-woocommerce">Fahad AI — WooCommerce Assistant</a></h3>
-      <p>AI-powered WooCommerce shopping assistant with Claude & Kimi K2 support, cart management, and streaming responses.</p>
-      <p>
-        <img alt="Stars" src="https://img.shields.io/github/stars/fahdi/fahad-ai-shopping-assistant-for-woocommerce?style=flat-square&color=yellow" />
-        <img alt="Forks" src="https://img.shields.io/github/forks/fahdi/fahad-ai-shopping-assistant-for-woocommerce?style=flat-square&color=blue" />
-        <img alt="Language" src="https://img.shields.io/github/languages/top/fahdi/fahad-ai-shopping-assistant-for-woocommerce?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/fahdi/datecoder">Date Format Builder</a></h3>
-      <p>Generate date format strings for JavaScript, PHP, and Python side by side — no more hunting through docs.</p>
-      <p>
-        <img alt="Stars" src="https://img.shields.io/github/stars/fahdi/datecoder?style=flat-square&color=yellow" />
-        <img alt="Forks" src="https://img.shields.io/github/forks/fahdi/datecoder?style=flat-square&color=blue" />
-        <img alt="Language" src="https://img.shields.io/github/languages/top/fahdi/datecoder?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://walletpro.isupercoder.com/">WalletPro for WooCommerce</a></h3>
-      <p>Full-featured WooCommerce wallet system — store credit, cashback, top-ups, transfers, gift cards, referrals, BNPL, and more.</p>
-    </td>
-    <td width="50%">
-      <h3>WordPress RAG Chatbot</h3>
-      <p>RAG-powered WordPress Hook Assistant — TDD-built SaaS for WordPress developers using semantic search over hook documentation.</p>
-    </td>
-  </tr>
-</table>
+[![Toptal](https://img.shields.io/badge/Toptal-Certified%20Engineer-3863A0?style=flat-square&logo=toptal)](https://www.toptal.com/resume/fahad-murtaza)
+[![Codeable](https://img.shields.io/badge/Codeable-Expert%20Developer%202019–2025-1BAFD6?style=flat-square)](https://codeable.io)
+[![WordPress](https://img.shields.io/badge/WordPress.org-Plugin%20Author-21759B?style=flat-square&logo=wordpress)](https://profiles.wordpress.org/fahdi/)
+[![Email](https://img.shields.io/badge/Email-info@fahdmurtaza.com-EA4335?style=flat-square&logo=gmail)](mailto:info@fahdmurtaza.com)
 
 ---
 
-## Tech Stack
+## 🏗️ What I'm Building
 
-#### Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🧩 [TableCrafter](https://github.com/TableCrafter) — WordPress Plugin Ecosystem
+My commercial product org. Three plugins live on WordPress.org:
 
-#### Frameworks & Platforms
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Gravity Forms](https://img.shields.io/badge/Gravity%20Forms-FF6B35?style=for-the-badge&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+| Plugin | Description | Status |
+|--------|-------------|--------|
+| [**Gravity Tables**](https://wpgravitytables.com) | Advanced data tables for Gravity Forms — spreadsheet editing, filters, bulk ops, RBAC | v4.7+ · 309-test suite |
+| [**EventCrafter**](https://wordpress.org/plugins/eventcrafter-visual-timeline/) | Drag-drop timeline & roadmap builder with Gutenberg block support | [![WP.org](https://img.shields.io/wordpress/plugin/v/eventcrafter-visual-timeline?style=flat-square)](https://wordpress.org/plugins/eventcrafter-visual-timeline/) |
+| [**CardCrafter**](https://wordpress.org/plugins/cardcrafter-data-grids/) | JSON-to-card-grid transformer with Gutenberg block support | [![WP.org](https://img.shields.io/wordpress/plugin/v/cardcrafter-data-grids?style=flat-square)](https://wordpress.org/plugins/cardcrafter-data-grids/) |
 
-#### Tools & Infrastructure
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude%20AI-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+### 🤖 AI & LLM Projects
+
+- **[Elementor MCP](https://github.com/fahdi/elementor-mcp)** — 70-tool MCP server letting Claude, Cursor, and any MCP client read and manipulate Elementor page designs programmatically
+- **[WooCommerce AI Shopping Assistant](https://github.com/fahdi/fahad-ai-shopping-assistant-for-woocommerce)** — WordPress plugin powering natural-language shopping with Anthropic Claude + Moonshot Kimi K2, real-time streaming, agentic tool-use, and Playwright E2E tests
+- **[WordPress RAG Chatbot](https://github.com/fahdi/wordpress-rag-chatbot)** — FastAPI + LangChain + OpenAI GPT-4 + Pinecone pipeline that answers WordPress hook questions with cited code examples
+- **[VibeTranScribe](https://github.com/fahdi/audio-transcribe)** — Local-first multilingual CLI: Whisper on Apple Silicon → English text + AI summary in 96+ languages
+- **[YouTube Summariser API](https://github.com/fahdi/yt-summarizer-api)** — Flask microservice using Claude 3 Haiku to summarise YouTube transcripts
+
+### ⚙️ iSuperCoder Platform — Rust Microservice Migration
+
+Progressively replacing Node.js services with Rust (Axum) for measurable performance gains:
+
+| Service | Gain vs Node.js |
+|---------|----------------|
+| [auth-service](https://github.com/fahdi/auth-service) | 3× faster login · 5× concurrency · 70% less memory |
+| [file-management](https://github.com/fahdi/isupercoder-file-management) | 500×+ throughput · Google Drive · MongoDB · Redis |
+| [utilities-forms](https://github.com/fahdi/isupercoder-utilities-forms) | Sub-100ms · PDF gen · image processing · URL shortening |
 
 ---
 
-## GitHub Stats
+## 🛠️ Tech Stack
 
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fahdi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=fahdi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+```
+Languages    PHP · TypeScript · Python · Rust · JavaScript · Swift · Dart
+WordPress    Gravity Forms · WooCommerce · ACF · Gutenberg · Elementor · Freemius
+AI / LLM     Anthropic Claude · OpenAI · Moonshot AI · Whisper · LangChain · Pinecone · MCP
+Frontend     React · Next.js 14/15 · Tailwind CSS · Astro · React Native · Flutter
+Backend      Rust/Axum · Express.js · FastAPI · Flask · Socket.io
+Infra        Docker · Nginx · Redis · MongoDB · PostgreSQL · Let's Encrypt · Railway
+```
 
 ---
 
-## Let's Connect
+## 🎓 Educational Projects
 
-[![Website](https://img.shields.io/badge/Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fahdmurtaza.com)
-[![Toptal](https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=toptal&logoColor=white)](https://www.toptal.com/resume/fahad-murtaza)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@fahdmurtaza.com)
+I publish at-scale learning resources for developers:
+
+| Resource | What it is |
+|----------|-----------|
+| [Algorithms in 60 Days](https://algorithmsin60days.com) | Progressive daily algorithm challenges — beginner to hard |
+| [Rust in 90 Days](https://github.com/fahdi/rust-learning) | 90 lessons, 13 weeks, 7 milestone projects — absolute beginner to expert |
+| [1,000 WordPress Tips](https://github.com/fahdi/1000-wordpress-tips) | Curated tips from a WordPress veteran |
+| [1,000 PHP Tips](https://github.com/fahdi/1000phptips.com) | Strict typing, security, OOP, performance |
+| [1,000 JS Tips](https://github.com/fahdi/1000-js-tips) | Async, closures, DOM, performance |
+| [1,000 CSS Tips](https://github.com/fahdi/1000-css-tips) | Flexbox, Grid, box model, animations |
+| [1,000 Python Tips](https://github.com/fahdi/1000-python-tips) | Idiomatic Python from data structures to async |
+| [Path to Senior Engineer](https://github.com/fahdi/path-to-senior-engineer-handbook) | Curated newsletters, books, courses & communities |
+| [181 Educational YouTube Channels](https://github.com/fahdi/educational-youtube-channels) | 13 categories, 5 languages — free learning resources |
+
+---
+
+## 🔧 Developer Tools
+
+- **[DateCoder](https://fahdmurtaza.com/datecoder/)** — interactive date-format builder for PHP, Python & JavaScript with 50+ country presets
+- **[CSS Visual Learner](https://fahdmurtaza.com/css-visual-learner)** — real-time CSS property visualiser (Flexbox, Grid, Box Model)
+- **[WordPress Hooks Explorer](https://fahdmurtaza.com/wp-hooks-explorer/)** — scans WP core and renders a searchable hooks reference
+- **[LaraHarbor](https://github.com/fahdi/LaraHarbor)** — one-command Docker-based Laravel dev environment manager with SSL and MailHog
+
+---
+
+## 📱 Mobile Apps
+
+- **[Rakat Counter Native](https://github.com/fahdi/rakat-counter-native)** — zero-touch prayer counter solving the "Prayer Mat Paradox" via 60Hz accelerometer + audio metering hybrid detection (React Native + Expo)
+- **[Dedupe](https://github.com/fahdi/dedupe)** — macOS SwiftUI app detecting duplicate music using FFT spectral analysis and Chromaprint/AcoustID fingerprinting
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [fahdmurtaza.com](https://fahdmurtaza.com)
+- 💼 [iSuperCoder.com](https://isupercoder.com)
+- 🧩 [TableCrafter](https://github.com/TableCrafter)
+- 📧 [info@fahdmurtaza.com](mailto:info@fahdmurtaza.com)
+
+---
+
+*544 repos and counting — always shipping, always learning.*
