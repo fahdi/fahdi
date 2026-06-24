@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&vCenter=true&random=false&width=700&lines=Hey+%F0%9F%91%8B+I'm+Fahad+Murtaza;WordPress+%26+WooCommerce+Expert;Building+the+TableCrafter+Ecosystem;Toptal+Certified+Engineer" alt="Typing SVG" />
 </a>
 
-**Senior Full-Stack Engineer** and **WordPress Specialist**. Founding Principal Engineer at [iSuperCoder](https://isupercoder.com) and creator of the [TableCrafter](https://tablecrafter.com) plugin ecosystem. Toptal Certified Software Engineer with deep experience building commercial WordPress and WooCommerce plugins.
+**Senior Full-Stack/AI Engineer** and **WordPress Specialist**. Founding Principal Engineer at [iSuperCoder](https://isupercoder.com) and creator of the [TableCrafter](https://tablecrafter.com) plugin ecosystem. Toptal Certified Software Engineer with deep experience building commercial WordPress and WooCommerce plugins.
 
 ---
 
