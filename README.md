@@ -1,5 +1,5 @@
 <a href="https://fahdmurtaza.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&vCenter=true&random=false&width=700&lines=Hello+World+%F0%9F%91%8B+I'm+Fahad+Murtaza;Software+Engineer+%26+AI+Builder;WordPress+%26+WooCommerce+Expert;Building+the+TableCrafter+Ecosystem;Toptal+Certified+Engineer" alt="Intro to Fahad Murtaza" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&vCenter=true&random=false&width=700&lines=Hello+World+%F0%9F%91%8B+I'm+Fahad+Murtaza;Software+Engineer+%26+AI+Builder;WordPress+%26+WooCommerce+Expert;Agentic+Commerce+Developer;Building+the+TableCrafter+Ecosystem;Toptal+Certified+Engineer" alt="Intro to Fahad Murtaza" />
 </a>
 
 **Founding Principal Engineer at [iSuperCoder](https://isupercoder.com)** — Toptal Certified · Codeable Expert (2019–2025) · WordPress.org Plugin Author
@@ -159,6 +159,7 @@ Infrastructure: Docker blue-green deployments · Nginx · Let's Encrypt · Mongo
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![Agentic Commerce](https://img.shields.io/badge/Agentic%20Commerce-FF6B35?style=for-the-badge&logoColor=white)
 
 #### Tools & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
