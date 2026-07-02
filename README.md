@@ -4,7 +4,7 @@
 
 **Founding Principal Engineer at [iSuperCoder](https://isupercoder.com)** — Toptal Certified · Codeable Expert (2019–2025) · WordPress.org Plugin Author
 
-Full-stack developer with a decade in production software: commercial WordPress plugins, AI/LLM-powered tools, a Rust microservice platform, cross-platform mobile apps, and developer education at scale. I build things that ship to real users.
+Full-stack developer with more than 2 decades in production software: commercial WordPress plugins, AI/LLM-powered tools, a Rust microservice platform, cross-platform mobile apps, and developer education at scale. I build things that ship to real users, and at scale. 
 
 [![Toptal](https://img.shields.io/badge/Toptal-Certified%20Engineer-3863A0?style=flat-square&logo=toptal)](https://www.toptal.com/resume/fahad-murtaza)
 [![Codeable](https://img.shields.io/badge/Codeable-Expert%20Developer%202019–2025-1BAFD6?style=flat-square)](https://codeable.io)
