@@ -25,7 +25,7 @@ Full-stack developer with more than 2 decades in production software: commercial
     </td>
     <td width="50%">
       <h3><a href="https://github.com/TableCrafter/tablecrafter.js">TableCrafter.js</a></h3>
-      <p>Zero-dependency 45 KB vanilla-JS data table library with 100% TableCrafter feature parity. Framework-agnostic, mobile-first, API-ready.</p>
+      <p>Zero-dependency 45 KB vanilla-JS data table library tracking full TableCrafter plugin parity. Framework-agnostic, mobile-first, API-ready.</p>
       <p>        
         <img alt="Language" src="https://img.shields.io/github/languages/top/TableCrafter/tablecrafter.js?style=flat-square" />
       </p>
