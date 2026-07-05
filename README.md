@@ -14,9 +14,7 @@ Full-stack developer with more than 2 decades in production software: commercial
 
 ---
 
-## 🧩 TableCrafter — Commercial Plugin Ecosystem
-
-My commercial org. Four products, three live on WordPress.org.
+## 🧩 TableCrafter - Commercial Plugin Ecosystem
 
 <table>
   <tr>
