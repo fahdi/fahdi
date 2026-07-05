@@ -21,12 +21,13 @@ My commercial org. Four products, three live on WordPress.org.
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://wpgravitytables.com">Gravity Tables</a></h3>
-      <p>Advanced data tables for Gravity Forms — spreadsheet editing, advanced filters, bulk ops, mobile card view, RBAC, lookup fields. <strong>v4.7+ · 309-test suite · Freemius licensed · CI/CD pipeline.</strong></p>
+      <h3><a href="https://tablecrafter.com">TableCrafter ★ WP.org</a></h3>
+      <p>WordPress data tables from any source: Gravity Forms, Google Sheets, Airtable, Notion, JSON, CSV, XML, external databases. Spreadsheet-style inline editing, advanced filters, bulk ops, mobile card view, RBAC, lookup fields. <strong>v8.0+ · 7,900-test suite · 98% coverage · Freemius licensed.</strong></p>
+      <p><img src="https://img.shields.io/wordpress/plugin/v/tablecrafter-wp-data-tables?style=flat-square" alt="WP.org" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/TableCrafter/tablecrafter.js">TableCrafter.js</a></h3>
-      <p>Zero-dependency 45 KB vanilla-JS data table library with 100% Gravity Tables feature parity. Framework-agnostic, mobile-first, API-ready.</p>
+      <p>Zero-dependency 45 KB vanilla-JS data table library with 100% TableCrafter feature parity. Framework-agnostic, mobile-first, API-ready.</p>
       <p>
         <img alt="Stars" src="https://img.shields.io/github/stars/TableCrafter/tablecrafter.js?style=flat-square&color=yellow" />
         <img alt="Language" src="https://img.shields.io/github/languages/top/TableCrafter/tablecrafter.js?style=flat-square" />
