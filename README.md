@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&vCenter=true&random=false&width=700&lines=Hello+World+%F0%9F%91%8B+I'm+Fahad+Murtaza;Software+Engineer+%26+AI+Builder;WordPress+%26+WooCommerce+Expert;Agentic+Commerce+Developer;Building+the+TableCrafter+Ecosystem;Toptal+Certified+Engineer" alt="Intro to Fahad Murtaza" />
 </a>
 
-**Founding Principal Engineer at [iSuperCoder](https://isupercoder.com)** · Toptal Certified · Codeable Expert (2019–2025) · WordPress.org Plugin Author
+**Founding Principal Engineer at [iSuperCoder](https://isupercoder.com)** · [Toptal Certified](https://www.toptal.com/developers/resume/fahad-murtaza#N0jwP7) · Codeable Expert (2019–2025) · WordPress.org Plugin Author
 
 Full-stack developer with over two decades of shipping production software: commercial WordPress plugins, AI and LLM tools, a Rust microservice platform, cross-platform mobile apps, and developer education projects.
 
-[![Toptal](https://img.shields.io/badge/Toptal-Certified%20Engineer-3863A0?style=flat-square&logo=toptal)](https://www.toptal.com/resume/fahad-murtaza)
+[![Toptal](https://img.shields.io/badge/Toptal-Certified%20Engineer-3863A0?style=flat-square&logo=toptal)](https://www.toptal.com/developers/resume/fahad-murtaza#N0jwP7)
 [![Codeable](https://img.shields.io/badge/Codeable-Expert%20Developer%202019–2025-1BAFD6?style=flat-square)](https://codeable.io)
 [![WordPress](https://img.shields.io/badge/WordPress.org-Plugin%20Author-21759B?style=flat-square&logo=wordpress)](https://profiles.wordpress.org/fahdi/)
 [![TableCrafter](https://img.shields.io/badge/@TableCrafter-Org-6366F1?style=flat-square&logo=github)](https://github.com/TableCrafter)
@@ -197,7 +197,7 @@ Infrastructure: Docker blue-green deployments · Nginx · Let's Encrypt · Mongo
 
 [![Website](https://img.shields.io/badge/fahdmurtaza.com-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fahdmurtaza.com)
 [![iSuperCoder](https://img.shields.io/badge/iSuperCoder.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://isupercoder.com)
-[![Toptal](https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=toptal&logoColor=white)](https://www.toptal.com/resume/fahad-murtaza)
+[![Toptal](https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=toptal&logoColor=white)](https://www.toptal.com/developers/resume/fahad-murtaza#N0jwP7)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@fahdmurtaza.com)
 
 ---
