@@ -93,9 +93,9 @@ Replacing Node.js services with Rust (Axum), one service at a time. Gains below 
 
 | Service | Gain vs Node.js | Tech |
 |---------|----------------|------|
-| [auth-service](https://github.com/fahdi/auth-service) | 3× faster login · 5× concurrency · 70% less memory | Rust · Axum · JWT |
-| [file-management](https://github.com/fahdi/isupercoder-file-management) | 500×+ throughput · Google Drive · security scanning | Rust · Axum · MongoDB · Redis |
-| [utilities-forms](https://github.com/fahdi/isupercoder-utilities-forms) | Sub-100ms · PDF gen · image processing · URL shortening | Rust · Axum |
+| **auth-service** (private) | 3× faster login · 5× concurrency · 70% less memory | Rust · Axum · JWT |
+| **file-management** (private) | 500×+ throughput · Google Drive · security scanning | Rust · Axum · MongoDB · Redis |
+| **utilities-forms** (private) | Sub-100ms · PDF gen · image processing · URL shortening | Rust · Axum |
 
 Infrastructure: Docker blue-green deployments · Nginx · Let's Encrypt · MongoDB + Redis · GitHub Actions CI/CD
 
