@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&vCenter=true&random=false&width=700&lines=Hello+World+%F0%9F%91%8B+I'm+Fahad+Murtaza;Software+Engineer+%26+AI+Builder;WordPress+%26+WooCommerce+Expert;Agentic+Commerce+Developer;Building+the+TableCrafter+Ecosystem;Toptal+Certified+Engineer" alt="Intro to Fahad Murtaza" />
 </a>
 
-**Founding Principal Engineer at [iSuperCoder](https://isupercoder.com)** — Toptal Certified · Codeable Expert (2019–2025) · WordPress.org Plugin Author
+**Founding Principal Engineer at [iSuperCoder](https://isupercoder.com)** · Toptal Certified · Codeable Expert (2019–2025) · WordPress.org Plugin Author
 
-Full-stack developer with more than 2 decades in production software: commercial WordPress plugins, AI/LLM-powered tools, a Rust microservice platform, cross-platform mobile apps, and developer education at scale. I build things that ship to real users, and at scale. 
+Full-stack developer with over two decades of shipping production software: commercial WordPress plugins, AI and LLM tools, a Rust microservice platform, cross-platform mobile apps, and developer education projects.
 
 [![Toptal](https://img.shields.io/badge/Toptal-Certified%20Engineer-3863A0?style=flat-square&logo=toptal)](https://www.toptal.com/resume/fahad-murtaza)
 [![Codeable](https://img.shields.io/badge/Codeable-Expert%20Developer%202019–2025-1BAFD6?style=flat-square)](https://codeable.io)
@@ -20,12 +20,12 @@ Full-stack developer with more than 2 decades in production software: commercial
   <tr>
     <td width="50%">
       <h3><a href="https://tablecrafter.com">TableCrafter ★ WP.org</a></h3>
-      <p>WordPress data tables from any source: Gravity Forms, Google Sheets, Airtable, Notion, JSON, CSV, XML, external databases. Spreadsheet-style inline editing, advanced filters, bulk ops, mobile card view, RBAC, lookup fields. <strong>v8.0+ · 7,900-test suite · 98% coverage · Freemius licensed.</strong></p>
+      <p>WordPress data tables from Gravity Forms, Google Sheets, Airtable, Notion, JSON, CSV, and external databases. Inline editing, advanced filters, bulk operations, and role-based access. <strong>v8.0+ · 7,900-test suite · 98% coverage.</strong></p>
       <p><img src="https://img.shields.io/wordpress/plugin/v/tablecrafter-wp-data-tables?style=flat-square" alt="WP.org" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/TableCrafter/tablecrafter.js">TableCrafter.js</a></h3>
-      <p>Zero-dependency vanilla-JS data table library (~27 KB min+gzip) tracking full TableCrafter plugin parity. Framework-agnostic, mobile-first, API-ready.</p>
+      <p>Zero-dependency vanilla JavaScript data table library at about 27 KB min+gzip. Framework-agnostic and mobile-first, tracking full feature parity with the WordPress plugin.</p>
       <p>        
         <img alt="Language" src="https://img.shields.io/github/languages/top/TableCrafter/tablecrafter.js?style=flat-square" />
       </p>
@@ -34,12 +34,12 @@ Full-stack developer with more than 2 decades in production software: commercial
   <tr>
     <td width="50%">
       <h3><a href="https://wordpress.org/plugins/eventcrafter-visual-timeline/">EventCrafter ★ WP.org</a></h3>
-      <p>Drag-drop timeline & roadmap builder with Gutenberg block, WCAG 2.1, API integration, mobile-first.</p>
+      <p>Drag-and-drop timeline and roadmap builder for WordPress. Ships with a Gutenberg block, WCAG 2.1 accessibility, API integration, and a mobile-first layout.</p>
       <p><img src="https://img.shields.io/wordpress/plugin/v/eventcrafter-visual-timeline?style=flat-square" alt="WP.org" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://wordpress.org/plugins/cardcrafter-data-grids/">CardCrafter ★ WP.org</a></h3>
-      <p>JSON-to-card-grid transformer with Gutenberg block support — team directories, product showcases, any data source.</p>
+      <p>Transforms JSON data into responsive card grids with Gutenberg block support. Built for team directories, product showcases, and any structured data source.</p>
       <p><img src="https://img.shields.io/wordpress/plugin/v/cardcrafter-data-grids?style=flat-square" alt="WP.org" /></p>
     </td>
   </tr>
@@ -53,11 +53,11 @@ Full-stack developer with more than 2 decades in production software: commercial
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/fahdi/elementor-mcp">Elementor MCP</a></h3>
-      <p>70-tool MCP server exposing Elementor's full design API to AI agents — Claude, Cursor, and any MCP-compatible client can read and manipulate page designs programmatically.</p>
+      <p>MCP server exposing Elementor's design API to AI agents through 70 tools. Claude, Cursor, and any MCP-compatible client can read and edit page designs programmatically.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/fahdi/fahad-ai-shopping-assistant-for-woocommerce">WooCommerce AI Assistant</a></h3>
-      <p>WordPress plugin powering natural-language shopping with Anthropic Claude + Moonshot Kimi K2 — real-time streaming, agentic multi-step tool-use, cart/checkout bridge, Playwright E2E tests.</p>
+      <p>Natural-language shopping for WooCommerce, powered by Anthropic Claude and Moonshot Kimi K2. Real-time streaming, multi-step tool use, a cart and checkout bridge, and Playwright E2E tests.</p>
       <p>
         <img alt="Stars" src="https://img.shields.io/github/stars/fahdi/fahad-ai-shopping-assistant-for-woocommerce?style=flat-square&color=yellow" />
       </p>
@@ -66,30 +66,30 @@ Full-stack developer with more than 2 decades in production software: commercial
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/fahdi/wordpress-rag-chatbot">WordPress RAG Chatbot</a></h3>
-      <p>FastAPI + LangChain + OpenAI GPT-4 + Pinecone pipeline answering WordPress hook questions with cited code examples. 80%+ test coverage.</p>
+      <p>Retrieval pipeline built on FastAPI, LangChain, GPT-4, and Pinecone. Answers WordPress hook questions with cited code examples, backed by over 80% test coverage.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/fahdi/audio-transcribe">VibeTranScribe</a></h3>
-      <p>Local-first multilingual CLI — Whisper on Apple Silicon GPU → English text + AI summary + action items in 96+ languages.</p>
+      <p>Local-first transcription CLI running Whisper on Apple Silicon GPU. Turns audio in 96+ languages into English text with an AI summary and action items.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/fahdi/ai-forecasting">AI Stock Forecasting</a></h3>
-      <p>Multi-model ensemble — XGBoost, LSTM, TFT, LightGBM, CatBoost — served via FastAPI + Celery with a React dashboard and Google Sheets plugin.</p>
+      <p>Multi-model ensemble combining XGBoost, LSTM, TFT, LightGBM, and CatBoost. Served through FastAPI and Celery with a React dashboard and a Google Sheets plugin.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/fahdi/yt-summarizer-api">YouTube Summariser API</a></h3>
-      <p>Flask microservice: YouTube transcript → Claude 3 Haiku summary via Anthropic SDK. Dockerised.</p>
+      <p>Flask microservice that turns YouTube transcripts into Claude 3 Haiku summaries via the Anthropic SDK. Fully Dockerised and ready to deploy.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## ⚙️ iSuperCoder Platform — Rust Microservice Migration
+## ⚙️ iSuperCoder Platform: Rust Microservice Migration
 
-Progressively replacing Node.js services with Rust (Axum) for measurable production gains:
+Replacing Node.js services with Rust (Axum), one service at a time. Gains below are measured against the original Node.js implementations:
 
 | Service | Gain vs Node.js | Tech |
 |---------|----------------|------|
@@ -106,9 +106,9 @@ Infrastructure: Docker blue-green deployments · Nginx · Let's Encrypt · Mongo
 | Project | What I Built |
 |---------|-------------|
 | **AJS Trucking** | 5-repo engagement: JupiterX child theme, Gravity Forms date migration, driver dropdown add-on, admin toolkit, date-fix script |
-| **HandballStatz** | Excel → SportsPress importer — matches, players, teams, standings, duplicate prevention (PHPSpreadsheet) |
-| **Beasley Dashboards** | Google Sheets → role-based WordPress dashboard with AJAX refresh, Tippy.js tooltips, nonce security |
-| **Buddyboss / PMPro** | Gumroad webhook → PMPro membership sync for BuddyBoss: new user creation, tier mapping, cancellation |
+| **HandballStatz** | Excel importer for SportsPress covering matches, players, teams, and standings, with duplicate prevention via PHPSpreadsheet |
+| **Beasley Dashboards** | Role-based WordPress dashboard fed by Google Sheets, with AJAX refresh, Tippy.js tooltips, and nonce security |
+| **Buddyboss / PMPro** | Gumroad webhook sync into PMPro memberships for BuddyBoss: new user creation, tier mapping, cancellation |
 | **AusBeds** | Distance-based shipping calculator using Google Maps Geocoding + Distance Matrix APIs |
 
 ---
@@ -119,11 +119,11 @@ Infrastructure: Docker blue-green deployments · Nginx · Let's Encrypt · Mongo
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/fahdi/rakat-counter-native">Rakat Counter Native</a></h3>
-      <p>Zero-touch prayer counter solving the "Prayer Mat Paradox" — hybrid 60Hz accelerometer + audio metering detection. 5-revision engineering history. React Native + Expo.</p>
+      <p>Zero-touch prayer counter that solves the "Prayer Mat Paradox" with hybrid 60Hz accelerometer and audio metering detection. Built with React Native and Expo.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/fahdi/dedupe">Dedupe</a></h3>
-      <p>macOS SwiftUI duplicate music finder — FFT spectral analysis via Apple Accelerate, Chromaprint/AcoustID fingerprinting, AV preview.</p>
+      <p>macOS duplicate music finder built with SwiftUI. Uses FFT spectral analysis via Apple Accelerate and Chromaprint/AcoustID fingerprinting, with in-app audio preview.</p>
     </td>
   </tr>
 </table>
@@ -174,13 +174,13 @@ Infrastructure: Docker blue-green deployments · Nginx · Let's Encrypt · Mongo
 
 | Resource | Description |
 |----------|-------------|
-| [Algorithms in 60 Days](https://algorithmsin60days.com) | Progressive daily algorithm challenges — beginner to hard |
-| [Rust in 90 Days](https://github.com/fahdi/rust-learning) | 90 lessons · 13 weeks · 7 milestone projects — absolute beginner to expert |
+| [Algorithms in 60 Days](https://algorithmsin60days.com) | Daily algorithm challenges from beginner to hard |
+| [Rust in 90 Days](https://github.com/fahdi/rust-learning) | 90 lessons and 7 milestone projects, from absolute beginner to expert |
 | [1,000 WordPress Tips](https://github.com/fahdi/1000-wordpress-tips) | Curated tips from a WordPress veteran |
 | [1,000 PHP Tips](https://github.com/fahdi/1000phptips.com) | Strict typing, security, OOP, performance |
 | [1,000 JS Tips](https://github.com/fahdi/1000-js-tips) · [CSS](https://github.com/fahdi/1000-css-tips) · [Python](https://github.com/fahdi/1000-python-tips) | Tip series across the major web languages |
 | [Path to Senior Engineer](https://github.com/fahdi/path-to-senior-engineer-handbook) | Curated newsletters, books, courses & communities |
-| [181 Educational YouTube Channels](https://github.com/fahdi/educational-youtube-channels) | 13 categories · 5 languages — free learning resources |
+| [181 Educational YouTube Channels](https://github.com/fahdi/educational-youtube-channels) | Free learning resources across 13 categories and 5 languages |
 
 ---
 
@@ -202,4 +202,4 @@ Infrastructure: Docker blue-green deployments · Nginx · Let's Encrypt · Mongo
 
 ---
 
-*544 repos and counting — always shipping, always learning.*
+*544 repos and counting.*
