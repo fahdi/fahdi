@@ -122,7 +122,7 @@ Infrastructure: Docker blue-green deployments · Nginx · Let's Encrypt · Mongo
       <p>Zero-touch prayer counter that solves the "Prayer Mat Paradox" with hybrid 60Hz accelerometer and audio metering detection. Built with React Native and Expo.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/fahdi/dedupe">Dedupe</a></h3>
+      <h3><a href="https://github.com/fahdi/duplicate-music-finder">Dedupe</a></h3>
       <p>macOS duplicate music finder built with SwiftUI. Uses FFT spectral analysis via Apple Accelerate and Chromaprint/AcoustID fingerprinting, with in-app audio preview.</p>
     </td>
   </tr>
@@ -175,7 +175,7 @@ Infrastructure: Docker blue-green deployments · Nginx · Let's Encrypt · Mongo
 | Resource | Description |
 |----------|-------------|
 | [Algorithms in 60 Days](https://algorithmsin60days.com) | Daily algorithm challenges from beginner to hard |
-| [Rust in 90 Days](https://github.com/fahdi/rust-learning) | 90 lessons and 7 milestone projects, from absolute beginner to expert |
+| [Rust in 90 Days](https://github.com/fahdi/rust-90-days) | 90 lessons and 7 milestone projects, from absolute beginner to expert |
 | [1,000 WordPress Tips](https://github.com/fahdi/1000-wordpress-tips) | Curated tips from a WordPress veteran |
 | [1,000 PHP Tips](https://github.com/fahdi/1000phptips.com) | Strict typing, security, OOP, performance |
 | [1,000 JS Tips](https://github.com/fahdi/1000-js-tips) · [CSS](https://github.com/fahdi/1000-css-tips) · [Python](https://github.com/fahdi/1000-python-tips) | Tip series across the major web languages |
