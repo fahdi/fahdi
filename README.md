@@ -69,7 +69,7 @@ Full-stack developer with over two decades of shipping production software: comm
       <p>Retrieval pipeline built on FastAPI, LangChain, GPT-4, and Pinecone. Answers WordPress hook questions with cited code examples, backed by over 80% test coverage.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/fahdi/audio-transcribe">VibeTranScribe</a></h3>
+      <h3><a href="https://github.com/fahdi/vibetranscribe">VibeTranScribe</a></h3>
       <p>Local-first transcription CLI running Whisper on Apple Silicon GPU. Turns audio in 96+ languages into English text with an AI summary and action items.</p>
     </td>
   </tr>
