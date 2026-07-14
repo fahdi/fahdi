@@ -20,12 +20,12 @@ Full-stack developer with over two decades of shipping production software: comm
   <tr>
     <td width="50%">
       <h3><a href="https://tablecrafter.com">TableCrafter ★ WP.org</a></h3>
-      <p>WordPress data tables from Gravity Forms, Google Sheets, Airtable, Notion, JSON, CSV, and external databases. Inline editing, advanced filters, bulk operations, and role-based access. <strong>v8.0+ · 7,900-test suite · 98% coverage.</strong></p>
+      <p>WordPress data tables from Gravity Forms, Google Sheets, Airtable, Notion, JSON, and CSV. Inline editing, filters, bulk operations. <strong>7,900 tests · 98% coverage.</strong></p>
       <p><img src="https://img.shields.io/wordpress/plugin/v/tablecrafter-wp-data-tables?style=flat-square" alt="WP.org" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/TableCrafter/tablecrafter.js">TableCrafter.js</a></h3>
-      <p>Zero-dependency vanilla JavaScript data table library at about 27 KB min+gzip. Framework-agnostic and mobile-first, tracking full feature parity with the WordPress plugin.</p>
+      <p>Zero-dependency vanilla JavaScript data table library, about 27 KB min+gzip. Framework-agnostic and mobile-first, with full parity with the WordPress plugin.</p>
       <p>        
         <img alt="Language" src="https://img.shields.io/github/languages/top/TableCrafter/tablecrafter.js?style=flat-square" />
       </p>
@@ -34,12 +34,12 @@ Full-stack developer with over two decades of shipping production software: comm
   <tr>
     <td width="50%">
       <h3><a href="https://wordpress.org/plugins/eventcrafter-visual-timeline/">EventCrafter ★ WP.org</a></h3>
-      <p>Drag-and-drop timeline and roadmap builder for WordPress. Ships with a Gutenberg block, WCAG 2.1 accessibility, API integration, and a mobile-first layout.</p>
+      <p>Drag-and-drop timeline and roadmap builder for WordPress. Ships with a Gutenberg block, WCAG 2.1 accessibility, API integration, and mobile-first layout.</p>
       <p><img src="https://img.shields.io/wordpress/plugin/v/eventcrafter-visual-timeline?style=flat-square" alt="WP.org" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://wordpress.org/plugins/cardcrafter-data-grids/">CardCrafter ★ WP.org</a></h3>
-      <p>Transforms JSON data into responsive card grids with Gutenberg block support. Built for team directories, product showcases, and any structured data source.</p>
+      <p>Transforms JSON data into responsive card grids with Gutenberg block support. Built for team directories, product showcases, and structured data feeds.</p>
       <p><img src="https://img.shields.io/wordpress/plugin/v/cardcrafter-data-grids?style=flat-square" alt="WP.org" /></p>
     </td>
   </tr>
@@ -53,11 +53,11 @@ Full-stack developer with over two decades of shipping production software: comm
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/fahdi/elementor-mcp">Elementor MCP</a></h3>
-      <p>MCP server exposing Elementor's design API to AI agents through 70 tools. Claude, Cursor, and any MCP-compatible client can read and edit page designs programmatically.</p>
+      <p>MCP server exposing Elementor's design API to AI agents through 70 tools. Claude, Cursor, and any MCP-compatible client can read and edit page designs.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/fahdi/fahad-ai-shopping-assistant-for-woocommerce">WooCommerce AI Assistant</a></h3>
-      <p>Natural-language shopping for WooCommerce, powered by Anthropic Claude and Moonshot Kimi K2. Real-time streaming, multi-step tool use, a cart and checkout bridge, and Playwright E2E tests.</p>
+      <p>Natural-language shopping for WooCommerce, powered by Claude and Kimi K2. Streaming responses, multi-step tool use, a cart bridge, and Playwright E2E.</p>
       <p>
         <img alt="Stars" src="https://img.shields.io/github/stars/fahdi/fahad-ai-shopping-assistant-for-woocommerce?style=flat-square&color=yellow" />
       </p>
@@ -66,21 +66,21 @@ Full-stack developer with over two decades of shipping production software: comm
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/fahdi/wordpress-rag-chatbot">WordPress RAG Chatbot</a></h3>
-      <p>Retrieval pipeline built on FastAPI, LangChain, GPT-4, and Pinecone. Answers WordPress hook questions with cited code examples, backed by over 80% test coverage.</p>
+      <p>Retrieval pipeline built on FastAPI, LangChain, GPT-4, and Pinecone. Answers WordPress hook questions with cited code samples and 80%+ test coverage.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/fahdi/vibetranscribe">VibeTranScribe</a></h3>
-      <p>Local-first transcription CLI running Whisper on Apple Silicon GPU. Turns audio in 96+ languages into English text with an AI summary and action items.</p>
+      <h3><a href="https://github.com/fahdi/stenodrop">StenoDrop</a></h3>
+      <p>Free offline batch audio transcription for Mac, Windows, and Linux. On-device Whisper turns folders of audio into .txt, with Urdu to English built in.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/fahdi/ai-forecasting">AI Stock Forecasting</a></h3>
-      <p>Multi-model ensemble combining XGBoost, LSTM, TFT, LightGBM, and CatBoost. Served through FastAPI and Celery with a React dashboard and a Google Sheets plugin.</p>
+      <p>Multi-model ensemble combining XGBoost, LSTM, TFT, LightGBM, and CatBoost. Served via FastAPI and Celery with a React dashboard and Google Sheets plugin.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/fahdi/yt-summarizer-api">YouTube Summariser API</a></h3>
-      <p>Flask microservice that turns YouTube transcripts into Claude 3 Haiku summaries via the Anthropic SDK. Fully Dockerised and ready to deploy.</p>
+      <p>Flask microservice turning YouTube transcripts into Claude 3 Haiku summaries through the Anthropic SDK. Fully Dockerised, tested, and ready to deploy.</p>
     </td>
   </tr>
 </table>
@@ -119,11 +119,11 @@ Infrastructure: Docker blue-green deployments · Nginx · Let's Encrypt · Mongo
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/fahdi/rakat-counter-native">Rakat Counter Native</a></h3>
-      <p>Zero-touch prayer counter that solves the "Prayer Mat Paradox" with hybrid 60Hz accelerometer and audio metering detection. Built with React Native and Expo.</p>
+      <p>Zero-touch prayer counter that solves the "Prayer Mat Paradox" with hybrid 60 Hz accelerometer and audio metering. Built with React Native and Expo.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/fahdi/duplicate-music-finder">Dedupe</a></h3>
-      <p>macOS duplicate music finder built with SwiftUI. Uses FFT spectral analysis via Apple Accelerate and Chromaprint/AcoustID fingerprinting, with in-app audio preview.</p>
+      <p>macOS duplicate music finder built with SwiftUI. FFT spectral analysis via Apple Accelerate plus Chromaprint fingerprinting, with in-app audio preview.</p>
     </td>
   </tr>
 </table>
