@@ -21,7 +21,7 @@ Full-stack developer with over two decades of shipping production software: comm
     <td width="50%">
       <h3><a href="https://tablecrafter.com">TableCrafter ★ WP.org</a></h3>
       <p>WordPress data tables from Gravity Forms, Google Sheets, Airtable, Notion, JSON, and CSV. Inline editing, filters, bulk operations. <strong>7,900 tests · 98% coverage.</strong></p>
-      <p><img src="https://img.shields.io/wordpress/plugin/v/tablecrafter-wp-data-tables?style=flat-square" alt="WP.org" /></p>
+      <p><img src="https://img.shields.io/badge/WP.org-v8.0.45-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WP.org" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/TableCrafter/tablecrafter.js">TableCrafter.js</a></h3>
@@ -35,12 +35,12 @@ Full-stack developer with over two decades of shipping production software: comm
     <td width="50%">
       <h3><a href="https://wordpress.org/plugins/eventcrafter-visual-timeline/">EventCrafter ★ WP.org</a></h3>
       <p>Drag-and-drop timeline and roadmap builder for WordPress. Ships with a Gutenberg block, WCAG 2.1 accessibility, API integration, and mobile-first layout.</p>
-      <p><img src="https://img.shields.io/wordpress/plugin/v/eventcrafter-visual-timeline?style=flat-square" alt="WP.org" /></p>
+      <p><img src="https://img.shields.io/badge/WP.org-v1.3.1-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WP.org" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://wordpress.org/plugins/cardcrafter-data-grids/">CardCrafter ★ WP.org</a></h3>
       <p>Transforms JSON data into responsive card grids with Gutenberg block support. Built for team directories, product showcases, and structured data feeds.</p>
-      <p><img src="https://img.shields.io/wordpress/plugin/v/cardcrafter-data-grids?style=flat-square" alt="WP.org" /></p>
+      <p><img src="https://img.shields.io/badge/WP.org-v1.14.3-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WP.org" /></p>
     </td>
   </tr>
 </table>
@@ -142,7 +142,7 @@ Infrastructure: Docker blue-green deployments · Nginx · Let's Encrypt · Mongo
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 #### Frameworks & Platforms
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -156,7 +156,7 @@ Infrastructure: Docker blue-green deployments · Nginx · Let's Encrypt · Mongo
 
 #### AI / LLM
 ![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 ![Agentic Commerce](https://img.shields.io/badge/Agentic%20Commerce-FF6B35?style=for-the-badge&logoColor=white)
