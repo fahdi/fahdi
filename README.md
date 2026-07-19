@@ -6,11 +6,11 @@
 
 Full-stack developer with over two decades of shipping production software: commercial WordPress plugins, AI and LLM tools, a Rust microservice platform, cross-platform mobile apps, and developer education projects.
 
-[![Toptal](https://img.shields.io/badge/Toptal-Certified%20Engineer-3863A0?style=flat-square&logo=toptal)](https://www.toptal.com/developers/resume/fahad-murtaza#N0jwP7)
-[![Codeable](https://img.shields.io/badge/Codeable-Expert%20Developer%202019–2025-1BAFD6?style=flat-square)](https://codeable.io)
-[![WordPress](https://img.shields.io/badge/WordPress.org-Plugin%20Author-21759B?style=flat-square&logo=wordpress)](https://profiles.wordpress.org/fahdi/)
-[![TableCrafter](https://img.shields.io/badge/@TableCrafter-Org-6366F1?style=flat-square&logo=github)](https://github.com/TableCrafter)
-[![Email](https://img.shields.io/badge/Email-info@fahdmurtaza.com-EA4335?style=flat-square&logo=gmail)](mailto:info@fahdmurtaza.com)
+[![Toptal](./assets/badges/toptal.svg)](https://www.toptal.com/developers/resume/fahad-murtaza#N0jwP7)
+[![Codeable](./assets/badges/codeable.svg)](https://codeable.io)
+[![WordPress](./assets/badges/wporg-author.svg)](https://profiles.wordpress.org/fahdi/)
+[![TableCrafter](./assets/badges/tablecrafter-org.svg)](https://github.com/TableCrafter)
+[![Email](./assets/badges/email.svg)](mailto:info@fahdmurtaza.com)
 
 ---
 
@@ -21,13 +21,13 @@ Full-stack developer with over two decades of shipping production software: comm
     <td width="50%">
       <h3><a href="https://tablecrafter.com">TableCrafter ★ WP.org</a></h3>
       <p>WordPress data tables from Gravity Forms, Google Sheets, Airtable, Notion, JSON, and CSV. Inline editing, filters, bulk operations. <strong>7,900 tests · 98% coverage.</strong></p>
-      <p><img src="https://img.shields.io/badge/WP.org-v8.0.45-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WP.org" /></p>
+      <p><img src="./assets/badges/wp-tablecrafter.svg" alt="WP.org" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/TableCrafter/tablecrafter.js">TableCrafter.js</a></h3>
       <p>Zero-dependency vanilla JavaScript data table library, about 27 KB min+gzip. Framework-agnostic and mobile-first, with full parity with the WordPress plugin.</p>
       <p>        
-        <img alt="Language" src="https://img.shields.io/github/languages/top/TableCrafter/tablecrafter.js?style=flat-square" />
+        <img alt="Language" src="./assets/badges/tablecrafterjs-lang.svg" />
       </p>
     </td>
   </tr>
@@ -35,12 +35,12 @@ Full-stack developer with over two decades of shipping production software: comm
     <td width="50%">
       <h3><a href="https://wordpress.org/plugins/eventcrafter-visual-timeline/">EventCrafter ★ WP.org</a></h3>
       <p>Drag-and-drop timeline and roadmap builder for WordPress. Ships with a Gutenberg block, WCAG 2.1 accessibility, API integration, and mobile-first layout.</p>
-      <p><img src="https://img.shields.io/badge/WP.org-v1.3.1-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WP.org" /></p>
+      <p><img src="./assets/badges/wp-eventcrafter.svg" alt="WP.org" /></p>
     </td>
     <td width="50%">
       <h3><a href="https://wordpress.org/plugins/cardcrafter-data-grids/">CardCrafter ★ WP.org</a></h3>
       <p>Transforms JSON data into responsive card grids with Gutenberg block support. Built for team directories, product showcases, and structured data feeds.</p>
-      <p><img src="https://img.shields.io/badge/WP.org-v1.14.3-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WP.org" /></p>
+      <p><img src="./assets/badges/wp-cardcrafter.svg" alt="WP.org" /></p>
     </td>
   </tr>
 </table>
@@ -59,7 +59,7 @@ Full-stack developer with over two decades of shipping production software: comm
       <h3><a href="https://github.com/fahdi/fahad-ai-shopping-assistant-for-woocommerce">WooCommerce AI Assistant</a></h3>
       <p>Natural-language shopping for WooCommerce, powered by Claude and Kimi K2. Streaming responses, multi-step tool use, a cart bridge, and Playwright E2E.</p>
       <p>
-        <img alt="Stars" src="https://img.shields.io/github/stars/fahdi/fahad-ai-shopping-assistant-for-woocommerce?style=flat-square&color=yellow" />
+        <img alt="Stars" src="./assets/badges/woo-ai-stars.svg" />
       </p>
     </td>
   </tr>
@@ -134,39 +134,39 @@ Infrastructure: Docker blue-green deployments · Nginx · Let's Encrypt · Mongo
 
 #### Languages
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Go](./assets/badges/go.svg)
+![Rust](./assets/badges/rust.svg)
+![JavaScript](./assets/badges/javascript.svg)
+![TypeScript](./assets/badges/typescript.svg)
+![Python](./assets/badges/python.svg)
+![PHP](./assets/badges/php.svg)
+![Swift](./assets/badges/swift.svg)
+![HTML5](./assets/badges/html5.svg)
+![CSS3](./assets/badges/css3.svg)
 
 #### Frameworks & Platforms
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![WordPress](./assets/badges/wordpress.svg)
+![WooCommerce](./assets/badges/woocommerce.svg)
+![React](./assets/badges/react.svg)
+![Next.js](./assets/badges/nextjs.svg)
+![React Native](./assets/badges/react-native.svg)
+![Flutter](./assets/badges/flutter.svg)
+![Django](./assets/badges/django.svg)
+![Node.js](./assets/badges/nodejs.svg)
 
 #### AI / LLM
-![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
-![Agentic Commerce](https://img.shields.io/badge/Agentic%20Commerce-FF6B35?style=for-the-badge&logoColor=white)
+![Anthropic](./assets/badges/anthropic.svg)
+![OpenAI](./assets/badges/openai.svg)
+![LangChain](./assets/badges/langchain.svg)
+![Pinecone](./assets/badges/pinecone.svg)
+![Agentic Commerce](./assets/badges/agentic-commerce.svg)
 
 #### Tools & Infrastructure
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](./assets/badges/git.svg)
+![Docker](./assets/badges/docker.svg)
+![MySQL](./assets/badges/mysql.svg)
+![MongoDB](./assets/badges/mongodb.svg)
+![Redis](./assets/badges/redis.svg)
 
 ---
 
@@ -187,7 +187,7 @@ Infrastructure: Docker blue-green deployments · Nginx · Let's Encrypt · Mongo
 ## 📊 GitHub Stats
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fahdi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="./assets/stats.svg" alt="GitHub Stats" />
   <img height="180" src="https://streak-stats.demolab.com?user=fahdi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -195,10 +195,10 @@ Infrastructure: Docker blue-green deployments · Nginx · Let's Encrypt · Mongo
 
 ## 📫 Let's Connect
 
-[![Website](https://img.shields.io/badge/fahdmurtaza.com-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fahdmurtaza.com)
-[![iSuperCoder](https://img.shields.io/badge/iSuperCoder.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://isupercoder.com)
-[![Toptal](https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=toptal&logoColor=white)](https://www.toptal.com/developers/resume/fahad-murtaza#N0jwP7)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@fahdmurtaza.com)
+[![Website](./assets/badges/website.svg)](https://fahdmurtaza.com)
+[![iSuperCoder](./assets/badges/isupercoder.svg)](https://isupercoder.com)
+[![Toptal](./assets/badges/toptal-connect.svg)](https://www.toptal.com/developers/resume/fahad-murtaza#N0jwP7)
+[![Email](./assets/badges/email-connect.svg)](mailto:info@fahdmurtaza.com)
 
 ---
 

@@ -1,0 +1,13 @@
+{
+  "name": "fahdi-profile",
+  "private": true,
+  "description": "Badge and stats-card generation for the profile README",
+  "scripts": {
+    "badges": "node scripts/generate-badges.js",
+    "stats": "node scripts/generate-stats-card.js"
+  },
+  "dependencies": {
+    "badge-maker": "^6.0.0",
+    "simple-icons": "^16.27.0"
+  }
+}
